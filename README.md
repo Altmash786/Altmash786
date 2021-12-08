@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Altmash786</h1>
-<p align="left"><img src=https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile+views&color=129e00&style=plastic /></p>
 
 - 📫 How to reach me **altmashkhan300@gmail.com**
 
